@@ -15,7 +15,7 @@ A Python tool for processing large CNPJ CSV files with complex filtering conditi
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/uncle-rennus/CNPJvalidate
 cd CNPJvalidate
 ```
 
